@@ -1,6 +1,7 @@
 {
   "name": "Homegear",
   "version": "0.2",
+  "arch": ["armhf"],
   "slug": "rpi-homegear",
   "description": "Homegear as a Hassio add-on",
   "startup": "before",
